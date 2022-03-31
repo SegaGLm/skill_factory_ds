@@ -1,12 +1,12 @@
 # Project 0. Game: Guess the number
 
 ## Table of contents  
-[1. Project description](.README.md#Project-description)  
-[2. What case are we solving?](.README.md#What-case-we-solve)  
-[3. Brief information about the data](.README.md#Brief-information-about-data)  
-[4. Stages of work on the project](.README.md#Stages-of-work-on-a-project)  
-[5. Result](.README.md#Result)    
-[6. Сonclusions](.README.md#Conclusions) 
+[1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Project-description)  
+[2. What case are we solving?](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#What-case-we-solve)  
+[3. Brief information about the data](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Brief-information-about-data)  
+[4. Stages of work on the project](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Stages-of-work-on-a-project)  
+[5. Result](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Result)    
+[6. Сonclusions](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Conclusions) 
 
 ### Description of the project
 Guess the number guessed by the computer in the minimum number of attempts.
