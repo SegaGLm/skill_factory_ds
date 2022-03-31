@@ -1,9 +1,9 @@
 # Project 0. Game: Guess the number
 
 ## Table of contents  
-[1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Project-description)  
-[2. What case are we solving?](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#What-case-we-solve)  
-[3. Brief information about the data](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Brief-information-about-data)  
+[1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Description-of-the-project)  
+[2. What case are we solving?](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#What-case-are-we-solving)  
+[3. Brief information about the data](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Brief-information-about-the-data)  
 [4. Stages of work on the project](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Stages-of-work-on-the-project)  
 [5. Result](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Results)    
 [6. Сonclusions](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Conclusions) 
