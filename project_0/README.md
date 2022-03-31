@@ -4,8 +4,8 @@
 [1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Project-description)  
 [2. What case are we solving?](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#What-case-we-solve)  
 [3. Brief information about the data](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Brief-information-about-data)  
-[4. Stages of work on the project](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Stages-of-work-on-a-project)  
-[5. Result](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Result)    
+[4. Stages of work on the project](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Stages-of-work-on-the-project)  
+[5. Result](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Results)    
 [6. Сonclusions](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Conclusions) 
 
 ### Description of the project
