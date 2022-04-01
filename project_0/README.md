@@ -34,9 +34,9 @@ We use the NumPy library to creates the number.
 
 
 ### Stages of work on the project
-- Creating a program that creates and guesses a number randomly.
+- Creating a program that creates and guesses a number randomly (game_v2.py).
 - Creating a repository on GitHub. Setting up branch synchronization and program commit.
-- Modernization of the code to reduce the total number of attempts to guess the number.
+- Modernization of the code to reduce the total number of attempts to guess the number (game_v3.py).
 - The final commit of the program.
 
 :arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Table-of-contents)
