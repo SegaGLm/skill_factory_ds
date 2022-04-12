@@ -3,6 +3,14 @@
 import numpy as np
 
 def random_predict(number:int=1) -> int:
+    """_summary_
+        
+    Args:
+        number (int - optional): Hidden number. Defaults to l.
+            
+    Returns:
+        int: Number of attempts
+    """
     count = 1
     max = 100
     min = 1
