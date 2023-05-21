@@ -32,9 +32,7 @@ We use the Pandas, Numpy, Matplotlib Pyplot, Seaborn, Plotly,  libraries and als
 
 ### Stages of work on the project
 - Data structure research
-- Data conversion
 - Exploring data dependencies
-- Data cleanup
 - Uploading the result to GitHub
 
 :arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_2/README.md#Table-of-contents)
