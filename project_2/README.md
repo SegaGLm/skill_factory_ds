@@ -1,4 +1,4 @@
-# Project 2. SQL Dataset analysis (vavancies from HeadHanter)
+# Project 2. SQL Dataset analysis (vaсancies from HeadHanter)
 
 ## Table of contents  
 [1. Project description](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_2/README.md#Table-of-contents)  
