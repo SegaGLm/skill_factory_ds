@@ -4,3 +4,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienct
 ## Projects
 * [Project 0. Game: Guess the number](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0)
 * [Project 1. Work on dataset from HH](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1)
+* [Project 1. Work on dataset from HH](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_2)
