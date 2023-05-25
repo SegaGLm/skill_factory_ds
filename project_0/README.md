@@ -43,7 +43,7 @@ We use the NumPy library to creates the number.
 
 
 ### Results:
-Uploaded working project on GitHub.
+[Uploaded working project on GitHub.](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/game_v3.py) 
 
 :arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_0/README.md#Table-of-contents)
 

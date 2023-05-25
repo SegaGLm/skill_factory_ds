@@ -41,7 +41,7 @@ We use the Pandas, Numpy, Matplotlib Pyplot, Seaborn, Plotly,  libraries to work
 
 
 ### Results:
-Uploaded working project on GitHub.
+[Uploaded working project on GitHub.](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/Project_1.ipynb) 
 
 :arrow_up:[to table of contents](https://github.com/SegaGLm/skill_factory_ds/blob/main/project_1/README.md#Table-of-contents)
 
